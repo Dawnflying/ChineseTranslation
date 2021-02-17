@@ -12,4 +12,5 @@ If you plan a translation, or other iteration of the book, best to coordinate wi
 
 
 **Other languages:** https://github.com/Token-Economy-Book/
+
 **Print book** (paperback & hardcopy) and **eBook** of **english language** editions are available on Amazon (https://amzn.to/2W7lQ8h) & other online bookstores.
