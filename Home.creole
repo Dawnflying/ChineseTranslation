@@ -1,75 +1,80 @@
-**Licence**: Creative Commons CC-BY-NC-SA | https://creativecommons.org/licenses/by-nc-sa/4.0/ 
-This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for **noncommercial purposes only**, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, **you must license the modified material under identical terms**. For **commercial permissions contact:** hello@token.kitchen//
+**Web3如何重塑互联网**
 
-**Read book in other languages**: https://github.com/Token-Economy-Book/
+作者：Shermin Voshmgir
 
-----
-**Table of Contents (English Original)**
+译者：YY、郭郭、小台风、Ruby Wang、Joanne Long
 
-*[[Imprint & Licence]]
+该版权使用者仅可出于非商业目的，以任意媒介或格式分发、混稿、改编或以本书内容为基础改写，最终版权归原作者所有。如需混稿、改编或以本书内容为基础的改写，修改后内容的版权条款不变。征求商业许可，请联系：hello@token.kitchen
 
-*[[About the Book]]
+阅读其他语言版本：https://github.com/Token-Economy-Book/
 
-*[[How to Read This Book]]
+**目录**
 
-*[[Aknowledgements]]
+* 版本说明和许可
 
-*[[Tables & Figures]]
+* 关于本书
 
-*[[Introduction]]
+* 如何阅读本书
 
-**[[Web3 Basics]]**
+* 致谢
 
-*[[Tokenized Networks: Web3, the Stateful Web]]
+* 附表及数据
 
-*[[Keeping Track of the Tokens: Bitcoin, Blockchain, & Other Distributed Ledgers]]
+* 引言
 
-*[[Token Security: Cryptography]]
+**Web3基础**
 
-*[[Who Controls The Tokens? User-Centric Identities]]
+* 代币网络: We3, 状态Web
 
-**[[Web3 Applications]]
+* 代币追溯：比特币、区块链和其他分布式账本
 
-*[[Smart Contracts]]**
+* 代币安全：密码学
 
-*[[Institutional Economics of Web3 Networks & other DAOs]]
+* 谁控制代币？用户为中心的身份
 
-*[[ Governance of Web3 Networks & Other DAOs]]
+**Web3应用**
 
-*[[ Tokens]]
+* 智能合约
 
-**[[ Token Economics & Decentralized Finance]]**
+* Web3 网络和其他DAO的制度经济学
 
-*[[ The Future of Money & Decentralized Finance (DeFi)]]
+* Web3 网络和其他DAO的治理
 
-*[[ Stable Tokens]]
+* 代币
 
-*[[ Privacy Tokens]]
+**代币经济和去中心化金融**
 
-*[[ Trading Tokens, Atomic Swaps & DEX]]
+* 货币的未来和去中心化金融（Defi)
 
-*[[ Lending Tokens - Decentralized Credit Systems]]
+* 稳定币
 
-*[[ Token Sales:ICOs, ITOs, IEOs, STOs]]
+* 隐私币
 
-**[[ Token Use Cases]]**
+* 代币的交易、原子交换和DEX
 
-*[[ Asset Tokens & Fractional Ownership]]
+* 代币的借贷-去中心化信贷系统
 
-*[[ Purpose-Driven Tokens]]
+* 代币发型：ICO、ITO、IEO、STO
 
-*[[ Steemit, Hive & Reddit: Tokenized Social Networks]]
+**分代币应用案例**
 
-*[[ Basic Attention Token: Advertising Reinvented]]
+* 资产代币和部分所有权
 
-*[[ Token Curated Registries - The New Search?]]
+* 目的导向型代币
 
-*[[ How to Design a Token System]]
+* Steemit、Hive和Reddit：代币社区网络
 
-**[[Annex]]**
+* 基本注意力代币：重塑广告
 
-*[[ Origins of Bitcoin & the Web3]]
+* 通证精选注册表--新的搜索？
 
-*[[ Blockchain Scalability Solutions]]
+* 如何设计一个代币系统
 
-*[[ Libra & Celo]]
+**附件**
+
+* 比特币和Web3的起源
+
+* 区块链可拓展性解决方案
+
+* Libra和Celo
+
