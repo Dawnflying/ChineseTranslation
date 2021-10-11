@@ -12,7 +12,7 @@ Welcome to the ChineseTranslation wiki!
 * [0.1 引言](https://github.com/Token-Economy-Book/ChineseTranslation/wiki/0.1-%E5%BC%95%E8%A8%80)
 * [0.2 关于本书](https://github.com/Token-Economy-Book/ChineseTranslation/wiki/0.2-%E5%85%B3%E4%BA%8E%E6%9C%AC%E4%B9%A6)
 * [0.3 如何阅读本书](https://github.com/Token-Economy-Book/ChineseTranslation/wiki/0.3-%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E6%9C%AC%E4%B9%A6)
-* [0.4 
+* [0.4 致谢](https://github.com/Token-Economy-Book/ChineseTranslation/wiki/0.4-%E8%87%B4%E8%B0%A2)
 
 ## 第一部分: Web3基础
 * [1.1 代币化网络](https://github.com/Token-Economy-Book/ChineseTranslation/wiki/1.1-%E4%BB%A3%E5%B8%81%E5%8C%96%E7%BD%91%E7%BB%9C)
