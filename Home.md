@@ -4,9 +4,6 @@ Welcome to the ChineseTranslation wiki!
 
 版本说明和许可
 
-目录
-
-关于作者
 
 
 * [0.1 引言](https://github.com/Token-Economy-Book/ChineseTranslation/wiki/0.1-%E5%BC%95%E8%A8%80)
