@@ -12,7 +12,7 @@ Welcome to the ChineseTranslation wiki!
 
 如何阅读本书
 
-引言
+* [0.1 引言](https://github.com/Token-Economy-Book/ChineseTranslation/wiki/0.1-%E5%BC%95%E8%A8%80)
 
 ## 第一部分: Web3基础
 * [1.1 代币化网络](https://github.com/Token-Economy-Book/ChineseTranslation/wiki/1.1-%E4%BB%A3%E5%B8%81%E5%8C%96%E7%BD%91%E7%BB%9C)
